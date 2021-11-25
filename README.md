@@ -1,3 +1,3 @@
 # Water-system-openMP
-A simple system runs Molecular dynamics simulations.
+A simple demo runs Molecular dynamics simulations of water molecules.
 It uses SPC model and leap-frog method.
